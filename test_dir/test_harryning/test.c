@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-printf ("hi git!");
+	printf ("hi git!");
 	return 0;
 }
