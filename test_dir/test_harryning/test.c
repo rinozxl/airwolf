@@ -1,2 +1,6 @@
 #include <stdio.h>
-aa
+int main()
+{
+printf ("hi git!");
+	return 0;
+}
